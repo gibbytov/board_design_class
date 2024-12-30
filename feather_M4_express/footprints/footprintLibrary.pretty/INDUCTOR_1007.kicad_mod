@@ -1,0 +1,367 @@
+(footprint "INDUCTOR_1007"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(descr "Inductor - 1007 (2518 Metric)\n\nL: 2.5mm x W: 1.8mm x H: 1.8mm")
+	(property "Reference" "REF**"
+		(at -1.524 -1.524 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b323250f-ca43-44ba-bb0c-67ba25c65aef")
+		(effects
+			(font
+				(size 0.692831 0.692831)
+				(thickness 0.119969)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "10uH"
+		(at -1.2065 0.1905 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2a6a7e16-daa6-42b3-9ea0-a267f9ee1291")
+		(effects
+			(font
+				(size 0.776224 0.776224)
+				(thickness 0.036576)
+			)
+			(justify right top)
+		)
+	)
+	(property "Footprint" "Library:INDUCTOR_1007"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2bb36256-261b-434f-8e75-58e505543a36")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/4899/LSQx_Series_Cat.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c672831b-5232-4c3b-a8f6-9fb446d677ac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "10 µH Unshielded Wirewound Inductor 235 mA 190mOhm 1007 (2518 Metric)"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ed6ea09-7207-45d8-b357-75340bb10174")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfr" "Taiyo Yuden"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6186adee-1f93-4e6e-b635-4d5f096ab28b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfr P/N" "LSQEA251818T100K"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a2b7e48-ca65-414f-b4f3-9dece99fd8da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1" "Digikey"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "896324aa-31fe-4eff-85f0-a2de0fda3b42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1 P/N" "587-LSQEA251818T100KCT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4ea601a-532a-4b55-a239-9877a27bd835")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1 Unit Price" "0.13"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "042f6136-4731-453d-b67e-b67226c22485")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1 Price @ Qty" "0.0742"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4335686-faea-4ae8-b872-518b20d06954")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier 2" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "78a03d81-f0cd-4cf5-a26b-35c08aa2c755")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_2 P/N" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25fcbac0-bbe5-4c0e-b2ca-aacb0ab322d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_2 Unit Price" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de049ec1-d2f1-4ad7-a69b-54cc4c03b542")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_2 Price @ Qty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a73f17c5-c0ef-4cda-a1f4-6216c473dc77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.8415 -1.27)
+		(end 1.8415 -1.27)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b4e7653-12d5-4d29-9a5e-9f81da057862")
+	)
+	(fp_line
+		(start -1.8415 1.27)
+		(end -1.8415 -1.27)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc213291-5cd4-42ef-bd95-14d52ac0453e")
+	)
+	(fp_line
+		(start 1.8415 -1.27)
+		(end 1.8415 1.27)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e8072ea-c4a9-4fb0-abb7-8403b8407e24")
+	)
+	(fp_line
+		(start 1.8415 1.27)
+		(end -1.8415 1.27)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d28db7e7-d2d2-48e0-83e8-74b6c4a6ef4b")
+	)
+	(fp_line
+		(start -1.25 -0.9)
+		(end -0.75 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3db21312-1594-40f4-aeed-c7647d9e8933")
+	)
+	(fp_line
+		(start -1.25 0.9)
+		(end -1.25 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3cb50f96-55e0-474e-80dc-28685c91feb6")
+	)
+	(fp_line
+		(start -1.25 0.9)
+		(end -0.75 0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ccaf0d3-eda3-4079-b683-a4a44e1a42a8")
+	)
+	(fp_line
+		(start -0.75 -0.9)
+		(end 0.75 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e46196aa-9051-41e8-8ddb-95830410da34")
+	)
+	(fp_line
+		(start -0.75 0.9)
+		(end -0.75 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f63fbd75-8ecc-41e5-b47b-f7edf2791692")
+	)
+	(fp_line
+		(start -0.75 0.9)
+		(end 0.75 0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1682dd05-7a3f-4b40-a098-cae950f1c37e")
+	)
+	(fp_line
+		(start 0.75 -0.9)
+		(end 1.25 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a0f7ee47-83d0-4d8a-93c5-84e088ba2f3c")
+	)
+	(fp_line
+		(start 0.75 0.9)
+		(end 0.75 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "26b561df-435c-4de7-9587-e25a2d2fcd64")
+	)
+	(fp_line
+		(start 0.75 0.9)
+		(end 1.25 0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5a51099-3d39-441b-afef-26c888fa8c85")
+	)
+	(fp_line
+		(start 1.25 0.9)
+		(end 1.25 -0.9)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1c457d3c-a208-4fc5-9489-fef7b996f315")
+	)
+	(pad "P$1" smd rect
+		(at -1.127 0)
+		(size 1.016 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "a3dbb341-e55a-4f16-9496-b7e5564fcf88")
+	)
+	(pad "P$2" smd rect
+		(at 1.127 0)
+		(size 1.016 2.2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "2a7b4867-a637-49a8-a660-0368b593aa6a")
+	)
+	(model "${KIPRJMOD}/packages3D/SMD_Inductor_1007.STEP"
+		(offset
+			(xyz 0 -0.9 0.85)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

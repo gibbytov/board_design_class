@@ -1,0 +1,365 @@
+(footprint "LED3535"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(locked yes)
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.905 -2.159 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "21467ec3-cb75-4dd6-9b36-0b579b56fd92")
+		(effects
+			(font
+				(size 0.692831 0.692831)
+				(thickness 0.119969)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "WS2812B3535"
+		(at 3.8481 4.0513 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3b17c57b-a66c-44e8-a5d7-0b63420eabb0")
+		(effects
+			(font
+				(size 0.776224 0.776224)
+				(thickness 0.036576)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Footprint" "Library:LED3535"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae2fa74e-f239-4142-99e2-5b44d2b91991")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7bba8ae-9fb9-411b-8083-49fa2da86cc3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "NeoPixel Mini 3535 RGB LEDs w/ Integrated Driver Chip - Black"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2a9be6b-68af-46d2-a0ba-4b9cf453d4f7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfr" "DONGGUANG OPSCO OPTOELECTRONICS CO., LTD"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37067fa3-c459-4a4d-8bb9-16afe0fdc6cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mfr P/N" "SK6812MINI"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7631784c-d9f3-434c-aa32-077adccfeaf0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1" "Adafruit"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff7b8313-3d09-4d33-9f82-ad673f3fa2c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1 P/N" "2686"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ab394dbf-97ee-47dc-841f-403d15c8faf0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1 Unit Price" "0.495"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eade906f-7321-4544-a393-8a8f2b8cc232")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_1 Price @ Qty" "0.446"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0371080-509d-4212-abc8-3ef9a7be1e41")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier 2" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dce65f38-a559-46db-bb09-c4e6ff0b8b2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_2 P/N" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "abc51970-9419-4b45-8255-9b3b0edf6f96")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_2 Unit Price" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc272b8d-4823-4c0a-889c-d0b532fa8446")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_2 Price @ Qty" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e30cb0b-4211-400e-915a-24c6f06412f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.9 -1.9)
+		(end 1.9 -1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "87f108ba-432a-40af-bfe7-6ab70bcc6f38")
+	)
+	(fp_line
+		(start -1.9 -1.6)
+		(end -1.9 -1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a10089bd-a276-4b62-bec3-2265e75c9181")
+	)
+	(fp_line
+		(start -1.9 1.6)
+		(end -1.9 1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9178df58-05db-4fae-a527-140484d9eaa5")
+	)
+	(fp_line
+		(start -1.9 1.9)
+		(end 1.9 1.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "16381b14-75fe-45ac-884f-4fbd218fedfe")
+	)
+	(fp_line
+		(start 1.9 -1.9)
+		(end 1.9 -1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9382a57b-a5a8-47d8-81a1-991015d63ecc")
+	)
+	(fp_line
+		(start 1.9 1.9)
+		(end 1.9 1.6)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "194bea13-ca94-478f-836a-443d6a8a0954")
+	)
+	(fp_poly
+		(pts
+			(xy -1.497697 -1.4605) (xy -1.9685 -1.4605) (xy -1.9685 -1.9685) (xy -0.989697 -1.9685)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "57d95505-4ded-4e8c-8655-9698dfcfaad7")
+	)
+	(fp_line
+		(start -1.75 -1.75)
+		(end 1.75 -1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1c7e5412-e57e-45c8-abb3-c905f4873a06")
+	)
+	(fp_line
+		(start -1.75 1.75)
+		(end -1.75 -1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f49bfd55-2a0e-43b4-ae3e-a5f44503c190")
+	)
+	(fp_line
+		(start 1.75 -1.75)
+		(end 1.75 1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11f25f85-c0be-483f-a89e-b56e8f53e714")
+	)
+	(fp_line
+		(start 1.75 1.75)
+		(end -1.75 1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cba3ce73-dc43-4ada-a470-fce5e682fa49")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.4 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "00197c67-2376-4597-a71f-077932ee6335")
+	)
+	(pad "1" smd rect
+		(at -1.75 -0.875 90)
+		(size 0.85 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "29e2d46e-2e96-4d3a-a8dc-1b5025e97665")
+	)
+	(pad "2" smd rect
+		(at -1.75 0.875 90)
+		(size 0.85 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "6626bd2b-39e6-475a-9e6e-c29bdb435808")
+	)
+	(pad "3" smd rect
+		(at 1.75 0.875 90)
+		(size 0.85 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "61519266-ff9b-4236-8398-a046614c76e4")
+	)
+	(pad "4" smd rect
+		(at 1.75 -0.875 90)
+		(size 0.85 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.0508)
+		(thermal_bridge_angle 0)
+		(uuid "f2bf2e1e-041d-4ac1-a70b-20fed7b08bee")
+	)
+	(model "${KIPRJMOD}/packages3D/SMD3535 RGB.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

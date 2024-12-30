@@ -1,0 +1,139 @@
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'linux'
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.10.12 (main, Jul 29 2024, 16:56:48) [GCC 11.4.0]'
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 8.0.4-8.0.4-0~ubuntu22.04.1
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.12
+
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1920, 1080), wx.Size(1920, 1080)]
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+08-18 10:18:25 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 17
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 26:Starting to archive 3D models
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: X2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/NX3215SA-32.768K-STD-MUA-14--3DModel-STEP-1.STEP
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/NX3215SA-32.768K-STD-MUA-14--3DModel-STEP-1.STEP
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R7
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: X3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/10118194-0001LF.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/10118194-0001LF.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/USB_Micro-B_Amphenol_10118194_Horizontal.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KIPRJMOD}/packages3D/USB_Micro-B_Amphenol_10118194_Horizontal.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/USB_Micro-B_Amphenol_10118194_Horizontal.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C0603C220K4GAC7867.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C0603C220K4GAC7867.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: L1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/QBLP631_MONO.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/QBLP631_MONO.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U$32
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: Q3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SOT23-3.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SOT23-3.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/KMR241NGULCLFS.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/KMR241NGULCLFS.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: CHG
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/QBLP631_MONO.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/QBLP631_MONO.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: L2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SMD_Inductor_1007.STEP
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SMD_Inductor_1007.STEP
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: JP1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: FID1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C6
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: @HOLE1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U$1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/TQFP-64_10x10mm_P0.5mm.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/TQFP-64_10x10mm_P0.5mm.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C10
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: P$2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R8
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: PCB1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U$6
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: JP3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: @HOLE0
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R9
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/R_Array_Convex_4x0603.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/R_Array_Convex_4x0603.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SOIC-8_3.9x4.9mm_P1.27mm.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SOIC-8_3.9x4.9mm_P1.27mm.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C5
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C8
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: X1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/S2B-PH-SM4-TB.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/S2B-PH-SM4-TB.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KIPRJMOD}/packages3D/JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R6
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C7
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C13
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/CL21A106KOQNNNE.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C11
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C4
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C0603C220K4GAC7867.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C0603C220K4GAC7867.step
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D4
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/MBR120LSFT1G.STEP
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/MBR120LSFT1G.STEP
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: P$1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: LED1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SMD3535 RGB.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SMD3535 RGB.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SOT23-5.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SOT23-5.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C14
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R4
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C12
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: @HOLE1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/SOT-23-5.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/SOT-23-5.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C15
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/C_0603_1608Metric.wrl
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R5
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/packages3D/RNCP0603.stp
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: FID2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP2
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP4
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U$5
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: TP3
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SJ1
+08-18 10:18:27 com_github_MitjaNemec_Archive3DModels.archive_3d_models 153:Did not succeed to copy 3D models!
+('X3', '${KIPRJMOD}/packages3D/USB_Micro-B_Amphenol_10118194_Horizontal.wrl')
+('X1', '${KIPRJMOD}/packages3D/JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal.wrl')
