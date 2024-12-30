@@ -1,0 +1,4 @@
+"Reference","Value","Qty","DNP","Supplier 1","Supplier 1 P/N","Supplier 1 Price @ Qty","Supplier 1 Unit Price"
+"J1","Conn_Coaxial","1","","DigiKey","5448-CT-SAD12X-006M-ND","2.62","2.62"
+"R1,R2","100K","2","","DigiKey","1276-3480-1-ND","0.029",".10"
+"U1","COM-13909","1","","Sparkfun","RFM69HCW Wireless Transceiver - 915MHz","6.50","6.50"

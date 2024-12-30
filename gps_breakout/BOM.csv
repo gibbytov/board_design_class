@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Qty","DNP","#","Mfr","Mfr P/N","Supplier 1","Supplier 1 P/N","Supplier 1 Price @ Qty"
+"C1","1uF","https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-250V_24.pdf","1","","1","YAGEO","CC0603KRX7R7BB105","Digikey","311-1446-1-ND","0.03080"
+"R1","1K","https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf","1","","2","YAGEO","RC0402JR-071KL","DigiKey","311-1.0KJRTR-ND",".10"
+"U1","5186","https://cdn-shop.adafruit.com/product-files/5186/5186_PA1616D_Datasheet.pdf","1","","3","Adafruit Industries","5186","DigiKey","1528-5186-ND","19.50"
+"J3","Conn_Coaxial","~","1","","4","Joymax Electronics","CT-SAD12X-006M","DigiKey","5448-CT-SAD12X-006M-ND","2.62"
+"L1","RED","https://optoelectronics.liteon.com/upload/download/DS22-2000-137/LTST-S220KRKT.pdf","1","","5","Lite-On Inc.","LTST-S220KRKT","Digikey","160-1469-1-ND","0.07620"
+"J1,J2","~","https://cdn.harwin.com/pdfs/D01-995.pdf","2","","6","Harwin Inc.","M20-9772646","Digikey","M20-9772646-ND","1.04"
